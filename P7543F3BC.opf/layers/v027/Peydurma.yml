@@ -16,8 +16,9 @@ annotations:
       end: 15210
   cad6a5f2aace4ac1874072b74df9ebca:
     span:
-      start: 15420
-      end: 15420
+      start: 15407
+      end: 15407
+      fail_update: both
 local_ids:
   bbeaeb67572d4d188f3f902d11201d86: 200000
   16ea5b78437340dd93243b471cb820b3: 200001
