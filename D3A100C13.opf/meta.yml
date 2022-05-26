@@ -1,0 +1,22 @@
+id: D3A100C13
+source: https://library.bdrc.io
+source_file: null
+initial_creation_type: ocr
+imported: '2021-12-31T07:01:56+00:00'
+last_modified: '2022-05-26T11:47:48.840979+00:00'
+parser: https://github.com/OpenPecha-dev/openpecha-toolkit/blob/a7eec5e12ddce18d0ed1dbb732a42cf48f94dd09/openpecha/formatters/hfml.py
+source_metadata:
+  base:
+    a47d:
+      image_group_id: I1PD95872
+      title: སྐུ་དང་གསུང་དང་ཐུགས་རབ་ཏུ་གནས་པ།
+      total_pages: 1953
+      order: 27
+      base_file: a47d.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
